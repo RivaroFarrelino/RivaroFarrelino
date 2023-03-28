@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rivaro Farrelino Gozali</h1>
 <h3 align="center">First year Information Technology student at University of Brawijaya</h3>
 <p align = "center">
-  <img src = "https://i.postimg.cc/TPMKQHwV/programcat.gif" />
+  <img src = "https://i.postimg.cc/nLFJHvw8/programcat.gif" />
 </p>
 
 - 📫 How to reach me **rivfarrelino@gmail.com**
