@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rivaro Farrelino Gozali</h1>
-<h3 align="center">Second year Information Technology student at University of Brawijaya</h3>
+<h3 align="center">Third year Information Technology student at University of Brawijaya</h3>
 <p align = "center">
   <img src = "https://i.postimg.cc/nLFJHvw8/programcat.gif" />
 </p>
