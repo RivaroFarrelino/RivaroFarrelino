@@ -9,25 +9,6 @@ I've previously intern at Telkom Indonesia as a Data Scientist from May - Decemb
   <img src="https://i.postimg.cc/nLFJHvw8/programcat.gif" />
 </p>
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.rivarofarrelino.com/" target="_blank">
-        <strong>Visit my personal website</strong>
-        <br /><br />
-        <img alt="Globe" height="80" src="images/globe.gif">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO" target="_blank">
-        <strong>Listen to cool music</strong>
-        <br /><br />
-        <img alt="Music" height="80" src="images/music.gif">
-      </a>
-    </td>
-  </tr>
-</table>
-
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/rivarofarrelino/" target="_blank">
@@ -83,6 +64,21 @@ I've previously intern at Telkom Indonesia as a Data Scientist from May - Decemb
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rivarofarrelino&show_icons=true&locale=en&layout=compact" alt="rivarofarrelino" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rivarofarrelino&show_icons=true&locale=en" alt="rivarofarrelino" /></p>
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.rivarofarrelino.com/" target="_blank">
+        <strong>Visit my personal website</strong>
+        <br /><br />
+        <img alt="Website" height="80" src="https://cdn-icons-png.flaticon.com/512/841/841364.png">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/user/bruod5calurcmaw76eihlsg6j?si=f608e4a061de4a0f" target="_blank">
+        <strong>Listen to cool music</strong>
+        <br /><br />
+        <img alt="Spotify" height="80" src="https://cdn.simpleicons.org/spotify">
+      </a>
+    </td>
+  </tr>
+</table>
