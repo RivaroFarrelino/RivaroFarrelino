@@ -4,6 +4,9 @@
 Nice to meet you!! I recently graduated from University of Brawijaya majoring in Information Technology (of course with jobless at the moment 🤸🏻‍♂️).
 I love working with data and also like building AI models.
 I've previously intern at Telkom Indonesia as a Data Scientist from May - December 2025.
+<br>
+![](https://badges.pufler.dev/visits/RivaroFarrelino/RivaroFarrelino?color=black&logo=github&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=RivaroFarrelino" alt="https://github.com/RivaroFarrelino" />
 
 <p align="center">
   <img src="https://i.postimg.cc/nLFJHvw8/programcat.gif" />
