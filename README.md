@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rivaro</h1>
-<h3 align="center">Data & AI Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+%26+Machine+Learning+Enthusiast;Love+to+predict+anything+except+my+future;Udah+gitu+aja;Ciailah+ditungguin;Sumpah+dah+ga+ada+lagi;Yaudah+deh+kalo+masih+nunggu;Ada+surprise+dalam+hitungan+ke-3;1;2;3;I+love+you" alt="Typing SVG" />
+
+<br>
+  
+  ### 🌐 Visit My Website
+  [![Website](https://img.shields.io/badge/🚀%20rivarofarrelino.com-4285F4?style=for-the-badge&logoColor=white)](https://www.rivarofarrelino.com/)
+</div>
+
 
 Nice to meet you!! I recently graduated from University of Brawijaya majoring in Information Technology (of course with jobless at the moment 🤸🏻‍♂️).
 I love working with data and also like building AI models.
@@ -69,13 +77,6 @@ I've previously intern at Telkom Indonesia as a Data Scientist from May - Decemb
 
 <table width="100%" align="center">
   <tr>
-    <td align="center">
-      <a href="https://www.rivarofarrelino.com/" target="_blank">
-        <strong>Visit my personal website</strong>
-        <br /><br />
-        <img alt="Website" height="80" src="https://cdn-icons-png.flaticon.com/512/841/841364.png">
-      </a>
-    </td>
     <td align="center">
       <a href="https://open.spotify.com/user/bruod5calurcmaw76eihlsg6j?si=f608e4a061de4a0f" target="_blank">
         <strong>Listen to cool music</strong>
