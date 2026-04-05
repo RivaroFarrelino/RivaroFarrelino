@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rivaro</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+%26+Machine+Learning+Enthusiast;Love+to+predict+anything+except+my+future;Udah+gitu+aja;Ciailah+ditungguin;Sumpah+dah+ga+ada+lagi;Yaudah+deh+kalo+masih+nunggu;Ada+surprise+dalam+hitungan+ke-3;1;2;3;I+love+you" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Enthusiast;AI+%26+Machine+Learning+Enthusiast;Love+to+predict+anything+except+my+future;Udah+gitu+aja;Ciailah+ditungguin;Sumpah+dah+ga+ada+lagi;Yaudah+deh+kalo+masih+nunggu;Ada+surprise+dalam+hitungan+ke-3;1;2;3;I+love+you" alt="Typing SVG" />
 
 <br>
   
